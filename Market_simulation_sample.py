@@ -14,10 +14,8 @@ In Ohio, a utility may own multiple generators.  In particular, a subsidized
 firm and a non-subsidized firm may be owned by the same holding company.  
 I proved theoretically that in this case, the holding company has an incentive 
 to reduce the subsidized firm's output to 0, regardless of its costs. 
-
-Of course, this negates the stated benefits of the regulation.  
-
-The results of the simulation coded below show that for a market with 
+ 
+The results of the simulation below show that for a market with 
 relatively realistic characteristics, this does indeed occur. 
 
 
